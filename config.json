@@ -30,20 +30,20 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01new.rent",
-              "CB_PROXY":"1",
+              "url":"https://cb01new.loan",
+              "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
-              "MX_PROXY":"0",
+              "MX_PROXY":"1",
               "enabled":"1"
           },
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
               "cookies" : {
-                  "ips4_device_key": null,
-                  "ips4_IPSSessionFront": null,
-                  "ips4_member_id": null,
-                  "ips4_login_key": null
+                  "ips4_device_key": "1496c03312d318b557ff 53512202e757",
+                  "ips4_IPSSessionFront": "d9ace0029696972877e2a5e3614a333b",
+                  "ips4_member_id": "4030088",
+                  "ips4_login_key": "71a501781ba479dfb91b40147e637daf"
                   },
               "enabled":"1"
           },
@@ -79,16 +79,7 @@
               "url":"https://daddylive.mp",
               "enabled":"1"
           }
-        "DDLStream": {
-"url": "https://ddlstreamitaly.co",
-"cookies": {
-"ips4_device_key": "1496c03312d318b557ff 53512202e757",
-"ips4_IPSSessionFront": "d9ace0029696972877e2a5e3614a333b",
-"ips4_member_id": "4030088",
-"ips4_login_key": "71a501781ba479dfb91b40147e637daf"
-},
-"enabled": "1" 
-        },
+   },
    "General":{
        "load_env": "0",
        "HOST": "0.0.0.0",
