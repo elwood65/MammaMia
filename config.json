@@ -17,7 +17,7 @@
               "enabled":"1"
           },
           "Guardaserie":{
-              "url": "https://guardaserietv.autos",
+              "url": "https://guardaserietv.bond",
               "enabled":"1",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
@@ -35,7 +35,7 @@
             "ES_PROXY": "0"
           },  
           "Guardaflix":{
-            "url": "https://guardaplay.space",
+            "url": "https://guardaplay.pro",
             "enabled": "1",
             "GF_ForwardProxy": "0",
             "GF_PROXY": "0"
